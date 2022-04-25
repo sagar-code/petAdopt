@@ -107,4 +107,4 @@ dist
 .parcel-cache/
 
 # vscode
-.vscode
+.vscode/
