@@ -2,7 +2,6 @@
   "name": "petadopt",
   "version": "1.0.0",
   "description": "petAdopt - build with vanilla React.js",
-  "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
